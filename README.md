@@ -134,5 +134,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 Run the notebook:
 ```bash
-jupyter notebook mlvirality_FINAL_1.ipynb
+jupyter notebook youtube_virality_predictor.ipynb
 ```
